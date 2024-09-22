@@ -1,3 +1,4 @@
+            head.goto(0, 0)
 # import required modules
 import turtle
 import time
