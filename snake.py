@@ -131,7 +131,7 @@ while True:
         new_segment = turtle.Turtle()
         new_segment.speed(0)
         new_segment.shape("square")
-        new_segment.color("orange")  # tail colour
+        new_segment.color("green")  # tail colour
         new_segment.penup()
         segments.append(new_segment)
         delay -= 0.001
